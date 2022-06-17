@@ -1,0 +1,16 @@
+body {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    grid-template-rows: auto;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lavender;
+    width: 500pt;
+    height: 500pt;
+}
+
+h1 {
+    align-items: center;
+    text-align: center;
+    content: center;
+    margin: auto;
+}
